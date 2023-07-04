@@ -11,6 +11,13 @@
 ![homeverse Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 ![homeverse Mobile Demo](./readme-images/mobile.png "Mobile Demo")
 
+### Technologies Used
+The real estate website will be developed using the following technologies:
+
+1) HTML
+2)  CSS
+3)  JavaScript
+   
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -33,10 +40,3 @@ Windows:
 git clone https://github.com/codewithsadee/homeverse.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
