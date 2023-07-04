@@ -18,12 +18,6 @@ The real estate website will be developed using the following technologies:
 2)  CSS
 3)  JavaScript
    
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
 ### Run Locally
 
 To run **Homeverse** locally, run this command on your git bash:
