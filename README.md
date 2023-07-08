@@ -1,6 +1,6 @@
   <h2 align="center">Homeverse - Real estate website</h2>
 
-  Successfully created which is a user-friendly and responsive real estate website that allows users to search for properties, view property details, and connect with real estate agents. The website aims to provide an intuitive and seamless experience for both property buyers and sellers. <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Successfully created user-friendly and responsive real estate website that allows users to search for properties, view property details, and connect with real estate agents. The website aims to provide an intuitive and seamless experience for both property buyers and sellers. <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 </div>
 
