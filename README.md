@@ -1,5 +1,6 @@
-  <h2 align="center">Homeverse - Real estate website</h2>
+<h2 align="center">Homeverse - Real estate website</h2>
 
+## Description
     Welcome to Homeverse, your go-to destination for all your real estate needs. We have successfully created a user-friendly and responsive website that empowers users to search for properties, explore property details, and connect with real estate agents. Our website aims to provide an intuitive and seamless experience for both property buyers and sellers.
 
 ## Overview
